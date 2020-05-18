@@ -1,4 +1,4 @@
-# My build od suckless' dmenu
+# My build of suckless' dmenu
 
 ## dmenu - dynamic menu
 dmenu is an efficient dynamic menu for X.
