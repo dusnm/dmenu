@@ -27,6 +27,5 @@ make clean install
 ## Modifications
 
 * Different default colors
-* UbuntuMono Nerd Font
 * Center and run the dmenu\_run script in list mode by default
 * Commented out the fix that doesn't allow color fonts (A fix for the libxft bug is available in the AUR)
