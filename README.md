@@ -22,6 +22,7 @@ make clean install
 * border
 * center
 * line height
+* xresources
 
 ## Modifications
 
