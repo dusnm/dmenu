@@ -9,7 +9,7 @@ In order to build dmenu you need Xlib header files.
 ## Installation
 Clone the repository
 ```
-git clone https://github.com/dusnm/dmenu
+git clone https://github.com/dusnm/dmenu.git
 ```
 Edit config.mk to match your local setup (dmenu is installed into the /usr/local namespace by default).
 Afterwards enter the following command to build and install dmenu (if necessary as root):
